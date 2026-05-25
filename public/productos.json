@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juego de Bandejas de Cerámica",
+    "precio": 450.00,
+    "categoria": "cocina",
+    "imagenes": [
+      "img/bandejadeceramica.jpg"
+     ]    
+  },
+  {
+    "id": 2,
+    "nombre": "Bandejas Navideñas",
+    "precio": 450.00,
+    "categoria": "cocina",
+    "imagenes": [
+      "img/bandejasnavidenas.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Bandejas Pequeñas Navideñas",
+    "precio": 450.00,
+    "categoria": "cocina",
+    "imagenes": [
+      "img/platosnavidenos_saleros.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "Cesta para Ropa",
+    "precio": 450.00,
+    "categoria": "lavanderia",
+    "imagenes": [
+      "img/cestapararopa.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "Cesta para Ropa - 2",
+    "precio": 450.00,
+    "categoria": "lavanderia",
+    "imagenes": [
+      "img/cestapararopa2.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "nombre": "Coctelera de Vino - 27 piezas",
+    "precio": 450.00,
+    "categoria": "cocina",
+    "imagenes": [
+      "img/coctelera_vino.jpg"
+
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "Control DVD y cables",
+    "precio": 450.00,
+    "categoria": "entretenimiento",
+    "imagenes": [
+      "img/ControlDVDcables.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Cuatro - Marca",
+    "precio": 450.00,
+    "categoria": "entretenimiento",
+    "imagenes": [
+      "img/CuatroCaraInterna.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "Cuatro - cara posterior",
+    "precio": 450.00,
+    "categoria": "entretenimiento",
+    "imagenes": [
+      "img/CuatroForro1.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "nombre": "Cuatro - cara anterior",
+    "precio": 450.00,
+    "categoria": "entretenimiento",
+    "imagenes": [
+      "img/CuatroForro2.jpg"
+    ]
+  }
+]
