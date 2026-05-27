@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "nombre": "Bandejas Pequeñas Navideñas",
+    "nombre": "Platos Pequeños Navideños con salero y pimientero",
     "precio": 450.00,
     "categoria": "cocina",
     "imagenes": [
@@ -73,7 +73,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "nombre": "Cuatro - cara posterior",
     "precio": 450.00,
     "categoria": "entretenimiento",
@@ -82,12 +82,212 @@
     ]
   },
   {
-    "id": 9,
+    "id": 10,
     "nombre": "Cuatro - cara anterior",
     "precio": 450.00,
     "categoria": "entretenimiento",
     "imagenes": [
       "img/CuatroForro2.jpg"
     ]
-  }
+  },
+  {
+    "id": 11,
+    "nombre": "DVD Marca LG",
+    "precio": 450.00,
+    "categoria": "entretenimiento",
+    "imagenes": [
+      "img/DVDLG.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "nombre": "Exprimidor de Jugo",
+    "precio": 450.00,
+    "categoria": "cocina",
+    "imagenes": [
+      "img/exprimidorJugo.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "nombre": "exprimidor de Jugo - 2",
+    "precio": 450.00,
+    "categoria": "cocina",
+    "imagenes": [
+      "img/exprimidorjugo2.jpg"
+    ]
+  },
+  {
+    "id": 14,
+    "nombre": "Exprimidor de Jugo - 3",
+    "precio": 450.00,
+    "categoria": "cocina",
+    "imagenes": [
+      "img/exprimidor3.jpg"
+    ]
+  },
+  {
+    "id": 15,
+    "nombre": "Freidora Eléctrica",
+    "precio": 450.00,
+    "categoria": "cocina",
+    "imagenes": [
+      "img/freidora.jpg"
+    ]
+  },
+  {
+  "id": 16,
+  "nombre": "Juego de Ollas y Sartenes",
+  "precio": 450,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/juegosartenes.jpg"
+
+  ]
+},
+{
+  "id": 17,
+  "nombre": "Juego de sartenes - 2",
+  "precio": 450,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/juegosartenes2.jpg"
+  ]
+},
+{
+  "id": 18,
+  "nombre": "Juego de cubiertos - 24 piezas",
+  "precio": 450,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/juegocubiertos.jpg"
+  ]
+},
+{
+  "id": 19,
+  "nombre": "Juego de cuchillos Holstein",
+  "precio": 450,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/juegocuchillos.jpg"
+  ]
+},
+ {
+  "id": 20,
+  "nombre": "Juego de cuchillos - 2da foto",
+  "precio": 450,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/juegocuchillos2.jpg"
+  ]
+},
+ {
+  "id": 21,
+  "nombre": "Juego de Ollas IMUSA - 5 piezas",
+  "precio": 450,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/ollas.jpg"
+  ]
+},
+ {
+  "id": 22,
+  "nombre": "Paragua Playero",
+  "precio": 450,
+  "categoria": "playa",
+  "imagenes": [
+    "img/paragua_playero_cara_externa.jpg"
+  ]
+},
+ {
+  "id": 23,
+  "nombre": "Paragua playero - cara interna",
+  "precio": 450,
+  "categoria": "playa",
+  "imagenes": [
+    "img/paragua_playero_cara_interna.jpg"
+  ]
+},
+ {
+  "id": 24,
+  "nombre": "Paragua con forro",
+  "precio": 450,
+  "categoria": "playa",
+  "imagenes": [
+    "img/paraguaconforro.jpg"
+  ]
+},
+ {
+  "id": 25,
+  "nombre": "Juego de platos para sopa con cucharas ",
+  "precio": 450,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/platos_cucharas_sopa.jpg"
+  ]
+},
+ {
+  "id": 26,
+  "nombre": "Juego de muebles - sofá de 2 puestos y 2 sillones",
+  "precio": 450,
+  "categoria": "sala",
+  "imagenes": [
+    "img/sillon.jpg"
+  ]
+},
+ {
+  "id": 27,
+  "nombre": "Juego de muebles - sofá 2 puestos",
+  "precio": 450,
+  "categoria": "sala",
+  "imagenes": [
+    "img/sofa_2ptos.jpg"
+  ]
+},
+ {
+  "id": 28,
+  "nombre": "Tostiarepa - 4 unidades",
+  "precio": 450,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/tostiarepa.jpg"
+  ]
+},
+ {
+  "id": 29,
+  "nombre": "Tostiarepa - 4 unidades",
+  "precio": 450,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/tostiarepa1.jpg"
+  ]
+},
+ {
+  "id": 30,
+  "nombre": "Tostiempanadas - 2 unidades",
+  "precio": 450,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/tostiempanadas2.jpg"
+  ]
+},
+ {
+  "id": 31,
+  "nombre": "Tostiempanadas - 2 unidades",
+  "precio": 450,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/tostiempanadas.jpg"
+  ]
+},
+ {
+  "id": 32,
+  "nombre": "Televisor Marca Vizio",
+  "precio": 450,
+  "categoria": "entretenimiento",
+  "imagenes": [
+    "img/tv_marca_vizio.jpg"
+  ]
+}
+
 ]
