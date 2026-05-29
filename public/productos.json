@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nombre": "Juego de Bandejas de Cerámica",
+    "nombre": "Bandeja de Cerámica",
     "precio": 20.00,
     "categoria": "cocina",
     "imagenes": [
@@ -429,7 +429,7 @@
 {
   "id": 48,
   "nombre": "Escritorio",
-  "precio": 9.99,
+  "precio": 10,
   "categoria": "estudio",
   "imagenes": [
     "img/escritorio.jpg"
@@ -456,7 +456,7 @@
 {
   "id": 51,
   "nombre": "Mueble para Televisor",
-  "precio": 29.99,
+  "precio": 30,
   "categoria": "entretenimiento",
   "imagenes": [
     "img/muebletelevisor.jpg"

@@ -1,21 +1,28 @@
-import { useState } from 'react';
-import Productos from './componentes/Productos'
-import Footer from './componentes/Footer';
- // 1. Importamos tu componente
+import { useRef } from 'react';
+import Productos from './componentes/Productos.jsx';
+import Footer from './componentes/Footer.jsx'; // O como se llame tu componente de pie de página
 
-function App() {
-  // 2. Eliminamos la línea del 'count' para quitar la alerta de VSC
+const App = () => {
+  const footerRef = useRef(null);
+
+  const manejarScrollAlFooter = () => {
+    footerRef.current?.scrollIntoView({ behavior: 'smooth' });
+  };
 
   return (
-    <div className="App">
+    <div>
+      {/* Contenido, Navbar, etc. */}
+      <h1>Mi Tienda en Linea</h1>
       
-      <h1>Mi Tienda en Línea</h1>
+      {/* Le pasamos la función al botón de productos */}
+      <Productos alHacerClickContacto={manejarScrollAlFooter} />
       
-      {/* 3. Agregamos tu componente aquí */}
-      <Productos /> 
-      <Footer /> 
+      {/* Le asignamos la referencia al Footer */}
+      <div ref={footerRef}>
+        <Footer />
+      </div>
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
