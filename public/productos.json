@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nombre": "Juego de Bandejas de Cerámica",
-    "precio": 450.00,
+    "precio": 20.00,
     "categoria": "cocina",
     "imagenes": [
       "img/bandejadeceramica.jpg"
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "nombre": "Bandejas Navideñas",
-    "precio": 450.00,
+    "precio": 20.00,
     "categoria": "cocina",
     "imagenes": [
       "img/bandejasnavidenas.jpg"
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "nombre": "Platos Pequeños Navideños con salero y pimientero",
-    "precio": 450.00,
+    "precio": 15.00,
     "categoria": "cocina",
     "imagenes": [
       "img/platosnavidenos_saleros.jpg"
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "nombre": "Cesta para Ropa",
-    "precio": 450.00,
+    "precio": 10.00,
     "categoria": "lavanderia",
     "imagenes": [
       "img/cestapararopa.jpg"
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "nombre": "Cesta para Ropa - 2",
-    "precio": 450.00,
+    "precio": 10.00,
     "categoria": "lavanderia",
     "imagenes": [
       "img/cestapararopa2.jpg"
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "nombre": "Coctelera de Vino - 27 piezas",
-    "precio": 450.00,
+    "precio": 30.00,
     "categoria": "cocina",
     "imagenes": [
       "img/coctelera_vino.jpg"
@@ -56,8 +56,8 @@
   },
   {
     "id": 7,
-    "nombre": "Control DVD y cables",
-    "precio": 450.00,
+    "nombre": "DVD Marca LG con control y cables",
+    "precio": 10.00,
     "categoria": "entretenimiento",
     "imagenes": [
       "img/ControlDVDcables.jpg"
@@ -66,7 +66,7 @@
   {
     "id": 8,
     "nombre": "Cuatro - Marca",
-    "precio": 450.00,
+    "precio": 90.00,
     "categoria": "entretenimiento",
     "imagenes": [
       "img/CuatroCaraInterna.jpg"
@@ -75,7 +75,7 @@
   {
     "id": 9,
     "nombre": "Cuatro - cara posterior",
-    "precio": 450.00,
+    "precio": 90.00,
     "categoria": "entretenimiento",
     "imagenes": [
       "img/CuatroForro1.jpg"
@@ -84,7 +84,7 @@
   {
     "id": 10,
     "nombre": "Cuatro - cara anterior",
-    "precio": 450.00,
+    "precio": 90.00,
     "categoria": "entretenimiento",
     "imagenes": [
       "img/CuatroForro2.jpg"
@@ -92,8 +92,8 @@
   },
   {
     "id": 11,
-    "nombre": "DVD Marca LG",
-    "precio": 450.00,
+    "nombre": "DVD Marca LG con cable y control",
+    "precio": 10.00,
     "categoria": "entretenimiento",
     "imagenes": [
       "img/DVDLG.jpg"
@@ -102,7 +102,7 @@
   {
     "id": 12,
     "nombre": "Exprimidor de Jugo",
-    "precio": 450.00,
+    "precio": 15.00,
     "categoria": "cocina",
     "imagenes": [
       "img/exprimidorJugo.jpg"
@@ -111,7 +111,7 @@
   {
     "id": 13,
     "nombre": "exprimidor de Jugo - 2",
-    "precio": 450.00,
+    "precio": 15.00,
     "categoria": "cocina",
     "imagenes": [
       "img/exprimidorjugo2.jpg"
@@ -120,7 +120,7 @@
   {
     "id": 14,
     "nombre": "Exprimidor de Jugo - 3",
-    "precio": 450.00,
+    "precio": 15.00,
     "categoria": "cocina",
     "imagenes": [
       "img/exprimidor3.jpg"
@@ -129,7 +129,7 @@
   {
     "id": 15,
     "nombre": "Freidora Eléctrica",
-    "precio": 450.00,
+    "precio": 50.00,
     "categoria": "cocina",
     "imagenes": [
       "img/freidora.jpg"
@@ -138,7 +138,7 @@
   {
   "id": 16,
   "nombre": "Juego de Ollas y Sartenes",
-  "precio": 450,
+  "precio": 15,
   "categoria": "cocina",
   "imagenes": [
     "img/juegosartenes.jpg"
@@ -148,7 +148,7 @@
 {
   "id": 17,
   "nombre": "Juego de sartenes - 2",
-  "precio": 450,
+  "precio": 15,
   "categoria": "cocina",
   "imagenes": [
     "img/juegosartenes2.jpg"
@@ -157,7 +157,7 @@
 {
   "id": 18,
   "nombre": "Juego de cubiertos - 24 piezas",
-  "precio": 450,
+  "precio": 15,
   "categoria": "cocina",
   "imagenes": [
     "img/juegocubiertos.jpg"
@@ -166,7 +166,7 @@
 {
   "id": 19,
   "nombre": "Juego de cuchillos Holstein",
-  "precio": 450,
+  "precio": 45,
   "categoria": "cocina",
   "imagenes": [
     "img/juegocuchillos.jpg"
@@ -175,7 +175,7 @@
  {
   "id": 20,
   "nombre": "Juego de cuchillos - 2da foto",
-  "precio": 450,
+  "precio": 45,
   "categoria": "cocina",
   "imagenes": [
     "img/juegocuchillos2.jpg"
@@ -193,7 +193,7 @@
  {
   "id": 22,
   "nombre": "Paragua Playero",
-  "precio": 450,
+  "precio": 15,
   "categoria": "playa",
   "imagenes": [
     "img/paragua_playero_cara_externa.jpg"
@@ -202,7 +202,7 @@
  {
   "id": 23,
   "nombre": "Paragua playero - cara interna",
-  "precio": 450,
+  "precio": 15,
   "categoria": "playa",
   "imagenes": [
     "img/paragua_playero_cara_interna.jpg"
@@ -211,7 +211,7 @@
  {
   "id": 24,
   "nombre": "Paragua con forro",
-  "precio": 450,
+  "precio": 15,
   "categoria": "playa",
   "imagenes": [
     "img/paraguaconforro.jpg"
@@ -220,7 +220,7 @@
  {
   "id": 25,
   "nombre": "Juego de platos para sopa con cucharas ",
-  "precio": 450,
+  "precio": 20,
   "categoria": "cocina",
   "imagenes": [
     "img/platos_cucharas_sopa.jpg"
@@ -229,7 +229,7 @@
  {
   "id": 26,
   "nombre": "Juego de muebles - sofá de 2 puestos y 2 sillones",
-  "precio": 450,
+  "precio": 250,
   "categoria": "sala",
   "imagenes": [
     "img/sillon.jpg"
@@ -237,8 +237,8 @@
 },
  {
   "id": 27,
-  "nombre": "Juego de muebles - sofá 2 puestos",
-  "precio": 450,
+  "nombre": "Juego de muebles - sofá 2 puestos y 2 sillones",
+  "precio": 250,
   "categoria": "sala",
   "imagenes": [
     "img/sofa_2ptos.jpg"
@@ -247,7 +247,7 @@
  {
   "id": 28,
   "nombre": "Tostiarepa - 4 unidades",
-  "precio": 450,
+  "precio": 10,
   "categoria": "cocina",
   "imagenes": [
     "img/tostiarepa.jpg"
@@ -256,7 +256,7 @@
  {
   "id": 29,
   "nombre": "Tostiarepa - 4 unidades",
-  "precio": 450,
+  "precio": 10,
   "categoria": "cocina",
   "imagenes": [
     "img/tostiarepa1.jpg"
@@ -265,7 +265,7 @@
  {
   "id": 30,
   "nombre": "Tostiempanadas - 2 unidades",
-  "precio": 450,
+  "precio": 10,
   "categoria": "cocina",
   "imagenes": [
     "img/tostiempanadas2.jpg"
@@ -274,7 +274,7 @@
  {
   "id": 31,
   "nombre": "Tostiempanadas - 2 unidades",
-  "precio": 450,
+  "precio": 10,
   "categoria": "cocina",
   "imagenes": [
     "img/tostiempanadas.jpg"
@@ -283,11 +283,219 @@
  {
   "id": 32,
   "nombre": "Televisor Marca Vizio",
-  "precio": 450,
+  "precio": 50,
   "categoria": "entretenimiento",
   "imagenes": [
     "img/tv_marca_vizio.jpg"
   ]
-}
+},
 
+ {
+  "id": 33,
+  "nombre": "Vajilla para 8 personas",
+  "precio": 100,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/vajilla8personas.jpg"
+  ]
+},
+{
+  "id": 34,
+  "nombre": "Contenedores refractarios - 15 unidades ",
+  "precio": 75,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/contenedoresrefractarios.jpg"
+  ]
+},
+{
+  "id": 35,
+  "nombre": "Paraban",
+  "precio": 120,
+  "categoria": "sala",
+  "imagenes": [
+    "img/paraban.jpg"
+  ]
+},
+{
+  "id": 36,
+  "nombre": "Peso para la cocina",
+  "precio": 8,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/pesococina.jpg"
+  ]
+},
+{
+  "id": 37,
+  "nombre": "Adorno de Lladró",
+  "precio": 90,
+  "categoria": "recibo",
+  "imagenes": [
+    "img/adornolladro.jpg"
+  ]
+},
+{
+  "id": 38,
+  "nombre": "Juego de vasos navideños",
+  "precio": 8,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/vasosnavidenos.jpg"
+  ]
+},
+{
+  "id": 39,
+  "nombre": "Maletin Marca Bravo",
+  "precio": 10,
+  "categoria": "viaje",
+  "imagenes": [
+    "img/maletinbravo.jpg"
+  ]
+},
+{
+  "id": 40,
+  "nombre": "Maletin grande y extensible",
+  "precio": 30,
+  "categoria": "viaje",
+  "imagenes": [
+    "img/maletin.jpg"
+  ]
+},
+{
+  "id": 41,
+  "nombre": "Mesa de noche",
+  "precio": 5,
+  "categoria": "dormitorio",
+  "imagenes": [
+    "img/mesitadenoche.jpg"
+  ]
+},
+{
+  "id": 42,
+  "nombre": "Sofá cama matrimonial",
+  "precio": 50,
+  "categoria": "dormitorio",
+  "imagenes": [
+    "img/sofaextendido.jpg"
+   ]
+},
+{
+  "id": 43,
+  "nombre": "Sofá cama matrimonial",
+  "precio": 50,
+  "categoria": "dormitorio",
+  "imagenes": [
+    "img/sofacama.jpg"
+   ]
+  },
+  {
+  "id": 44,
+  "nombre": "Sofá cama matrimonial",
+  "precio": 50,
+  "categoria": "dormitorio",
+  "imagenes": [
+    "img/sofacama1.jpg"
+   ]
+  },
+
+ {
+  "id": 45,
+  "nombre": "Mesa auxiliar",
+  "precio": 10,
+  "categoria": "sitio de trabajo",
+  "imagenes": [
+    "img/mesaauxiliar.jpg"
+  ]
+},
+{
+  "id": 46,
+  "nombre": "Monitor con teclado y accesorio",
+  "precio": 20,
+  "categoria": "estudio",
+  "imagenes": [
+    "img/juegomonitorteclado.jpg"
+  ]
+},
+{
+  "id": 47,
+  "nombre": "Pyle Home - reproductor de audio",
+  "precio": 15,
+  "categoria": "entretenimiento",
+  "imagenes": [
+    "img/pylehome.jpg"
+  ]
+},
+{
+  "id": 48,
+  "nombre": "Escritorio",
+  "precio": 9.99,
+  "categoria": "estudio",
+  "imagenes": [
+    "img/escritorio.jpg"
+  ]
+},
+{
+  "id": 49,
+  "nombre": "Silla plástica",
+  "precio": 8,
+  "categoria": "varios",
+  "imagenes": [
+    "img/sillaplastica.jpg"
+  ]
+},
+{
+  "id": 50,
+  "nombre": "Video Juego - Sega Genesis con 9 juegos",
+  "precio": 100,
+  "categoria": "entretenimiento",
+  "imagenes": [
+    "img/segaconcontroles.jpg"
+  ]
+},
+{
+  "id": 51,
+  "nombre": "Mueble para Televisor",
+  "precio": 29.99,
+  "categoria": "entretenimiento",
+  "imagenes": [
+    "img/muebletelevisor.jpg"
+  ]
+},
+{
+  "id": 52,
+  "nombre": "Tizanera",
+  "precio": 30,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/tizanera.jpg"
+  ]
+},
+{
+  "id": 53,
+  "nombre": "Tizanera - detalles",
+  "precio": 30,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/tizaneradetalles.jpg"
+  ]
+},
+{
+  "id": 54,
+  "nombre": "Tizanera - tipos",
+  "precio": 30,
+  "categoria": "cocina",
+  "imagenes": [
+    "img/tizaneratipos.jpg"
+  ]
+},
+{
+  "id": 55,
+  "nombre": "Alcayatas",
+  "precio": 15,
+  "categoria": "balcon",
+  "imagenes": [
+    "img/alcayatas.jpg"
+  ]
+}
 ]
